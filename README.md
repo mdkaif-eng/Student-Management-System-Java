@@ -18,8 +18,8 @@ A console-based Student Management System built using Java and OOP concepts with
 
 📂 Project Structure
 
-Student.java
-StudentManagementSystem.java
+Student.java,
+StudentManagementSystem.java,
 Main.java
 
 ▶ How to Run
